@@ -4,6 +4,7 @@
 	<div id="main-content" class="flex h-full w-full flex-col">
 		<div
 			class="bg-hero-sky flex h-screen min-h-auto w-full flex-col items-start justify-between gap-1 bg-cover bg-center p-10 text-white lg:flex-row lg:gap-20"
+			style:background-image="url(/images/hero-sky.avif)"
 		>
 			<!-- text wrapper  -->
 			<div class="flex h-full max-w-150 flex-col justify-between">
