@@ -17,4 +17,5 @@
 	<div class="">Claude • Ollama/Qwen code</div>
 	⌁
 	<div class="text-xs text-neutral-500">Status: Migrating component architecture</div>
+	<div>/load</div>
 </div>
