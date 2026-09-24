@@ -14,4 +14,9 @@
 	<div class="">Claude • Ollama/Qwen code</div>
 	⌁
 	<div class="text-xs text-neutral-500">Status: Migrating component architecture</div>
+	⌁
+	<a
+		class="delay-00 rounded-sm border border-neutral-300 px-3 py-1 text-[12px] text-neutral-500 transition-all hover:bg-neutral-200"
+		href="/">Home</a
+	>
 </div>
