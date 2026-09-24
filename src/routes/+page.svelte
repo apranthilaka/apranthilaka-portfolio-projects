@@ -1,5 +1,5 @@
 <div
-	class="flex min-h-screen w-full flex-col items-center overflow-x-hidden bg-slate-50 font-sans text-sm text-black antialiased"
+	class="flex min-h-screen w-full flex-col items-center overflow-x-hidden bg-slate-50 font-sans text-black antialiased"
 >
 	<div id="main-content" class="flex h-full w-full flex-col">
 		<div
@@ -10,9 +10,9 @@
 			<div class="flex h-full max-w-150 flex-col justify-between">
 				<div class="mb-3 flex flex-row items-center gap-1">
 					<!-- <img class="w-8" src="./assets/logo.png" alt="" /> -->
-					<span class="inline-flex items-center text-lg">
-						<span class="text-xl leading-none font-bold">✳</span>
-						<span class="leading-none">/apranthilaka</span>
+					<span class="flex flex-col">
+						<div class="text-md text-md font-semibold">Apranthilaka</div>
+						<div class="text-xs">Design & Dev Portfolio</div>
 					</span>
 				</div>
 
@@ -117,7 +117,6 @@
 				<div>Code Sandbox Coming Soon!</div>
 				<div class="flex w-full flex-row justify-start gap-2 align-top lg:justify-end">
 					<a
-						target="_blank"
 						href="/projectsintro"
 						class="inline-flex min-h-[40px] w-full min-w-[110px] items-center justify-center rounded-md bg-white/90 px-4 py-2 text-sm font-medium text-neutral-800 transition-all duration-200 hover:bg-white lg:w-auto"
 					>
@@ -140,7 +139,7 @@
 								Metaful - Permision manager for teams and agents
 							</div>
 							<div class="mt-1 flex items-center gap-1 text-xs text-neutral-500">
-								<img class="inline-block h-auto w-[15px]" src="./assets/wip.gif" alt="" />
+								<img class="inline-block h-auto w-[15px]" src="/images/wip.gif" alt="" />
 								R&D / Client / SaaS / Product Design
 							</div>
 							<div
@@ -185,7 +184,8 @@
 							<div class="text-base font-medium text-neutral-950">Obrand - Work In Progress</div>
 
 							<div class="mt-1 flex items-center gap-1 text-xs text-neutral-500">
-								<img class="inline-block h-auto w-[15px]" src="./assets/wip.gif" alt="" />
+								<img class="inline-block h-auto w-[15px]" src="/images/wip.gif" alt="" />
+
 								Work in Progress / Concept / SaaS / Product Design
 							</div>
 							<div
@@ -221,7 +221,8 @@
 						<div>
 							<div class="text-base font-medium text-neutral-950">Kaleora - AI Audit</div>
 							<div class="mt-1 flex items-center gap-1 text-xs text-neutral-500">
-								<img class="inline-block h-auto w-[15px]" src="./assets/wip.gif" alt="" />
+								<img class="inline-block h-auto w-[15px]" src="/images/wip.gif" alt="" />
+
 								Work in Progress / Concept / SaaS / Product Design
 							</div>
 							<div
