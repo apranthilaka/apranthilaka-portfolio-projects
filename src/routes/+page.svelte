@@ -118,7 +118,7 @@
 				<div class="flex w-full flex-row justify-start gap-2 align-top lg:justify-end">
 					<a
 						target="_blank"
-						href="https://devportfolio.apranthilaka.workers.dev/"
+						href="/projectsintro"
 						class="inline-flex min-h-[40px] w-full min-w-[110px] items-center justify-center rounded-md bg-white/90 px-4 py-2 text-sm font-medium text-neutral-800 transition-all duration-200 hover:bg-white lg:w-auto"
 					>
 						View Live Prototypes
